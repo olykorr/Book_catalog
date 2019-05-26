@@ -1,0 +1,302 @@
+[
+  {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "christy",
+      "last": "foster"
+    },
+    "email": "christy.foster@example.com",
+    "dob": "1995-08-18 12:46:49"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "terri",
+      "last": "oliver"
+    },
+    "email": "terri.oliver@example.com",
+    "dob": "1950-05-03 09:05:36"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "melinda",
+      "last": "johnston"
+    },
+    "email": "melinda.johnston@example.com",
+    "dob": "1955-11-18 05:12:46"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "susan",
+      "last": "griffin"
+    },
+    "email": "susan.griffin@example.com",
+    "dob": "1963-01-24 03:45:26"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "craig",
+      "last": "peterson"
+    },
+    "email": "craig.peterson@example.com",
+    "dob": "1962-08-23 15:08:49"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "dan",
+      "last": "rivera"
+    },
+    "email": "dan.rivera@example.com",
+    "dob": "1989-09-28 00:43:01"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "todd",
+      "last": "howell"
+    },
+    "email": "todd.howell@example.com",
+    "dob": "1985-06-05 16:09:22"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "myrtle",
+      "last": "perkins"
+    },
+    "email": "myrtle.perkins@example.com",
+    "dob": "1956-02-29 04:08:16"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "nevaeh",
+      "last": "brewer"
+    },
+    "email": "nevaeh.brewer@example.com",
+    "dob": "1989-07-19 10:16:48"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "john",
+      "last": "oliver"
+    },
+    "email": "john.oliver@example.com",
+    "dob": "1968-10-24 11:18:46"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "javier",
+      "last": "mills"
+    },
+    "email": "javier.mills@example.com",
+    "dob": "1983-03-11 11:39:27"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "lesa",
+      "last": "foster"
+    },
+    "email": "lesa.foster@example.com",
+    "dob": "1975-08-11 14:41:04"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "ms",
+      "first": "elizabeth",
+      "last": "mitchell"
+    },
+    "email": "elizabeth.mitchell@example.com",
+    "dob": "1970-06-11 04:11:53"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "jordan",
+      "last": "banks"
+    },
+    "email": "jordan.banks@example.com",
+    "dob": "1990-02-18 21:19:03"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "teresa",
+      "last": "phillips"
+    },
+    "email": "teresa.phillips@example.com",
+    "dob": "1962-05-15 07:57:50"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "stacy",
+      "last": "bailey"
+    },
+    "email": "stacy.bailey@example.com",
+    "dob": "1979-06-14 07:01:03"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "lori",
+      "last": "berry"
+    },
+    "email": "lori.berry@example.com",
+    "dob": "1971-01-20 08:12:20"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "david",
+      "last": "bailey"
+    },
+    "email": "david.bailey@example.com",
+    "dob": "1980-12-09 00:15:11"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "matthew",
+      "last": "ortiz"
+    },
+    "email": "matthew.ortiz@example.com",
+    "dob": "1966-10-02 19:29:42"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "ms",
+      "first": "tracy",
+      "last": "hale"
+    },
+    "email": "tracy.hale@example.com",
+    "dob": "1966-02-17 16:23:10"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "carolyn",
+      "last": "warren"
+    },
+    "email": "carolyn.warren@example.com",
+    "dob": "1953-09-28 15:07:14"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "debra",
+      "last": "lowe"
+    },
+    "email": "debra.lowe@example.com",
+    "dob": "1979-02-16 09:35:40"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "kyle",
+      "last": "frazier"
+    },
+    "email": "kyle.frazier@example.com",
+    "dob": "1965-01-10 16:58:11"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "eric",
+      "last": "walker"
+    },
+    "email": "eric.walker@example.com",
+    "dob": "1966-02-25 04:13:40"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "ms",
+      "first": "paula",
+      "last": "steeves "
+    },
+    "email": "paula.steeves@example.com",
+    "dob": "1946-03-22 13:36:44"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "christopher",
+      "last": "cox"
+    },
+    "email": "christopher.cox@example.com",
+    "dob": "1975-07-17 16:54:27"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "debbie",
+      "last": "little"
+    },
+    "email": "debbie.little@example.com",
+    "dob": "1990-06-13 23:30:32"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "heidi",
+      "last": "stephens"
+    },
+    "email": "heidi.stephens@example.com",
+    "dob": "1965-01-30 18:43:34"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "ms",
+      "first": "debbie",
+      "last": "jackson"
+    },
+    "email": "debbie.jackson@example.com",
+    "dob": "1979-10-23 10:01:54"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "kirk",
+      "last": "warren"
+    },
+    "email": "kirk.warren@example.com",
+    "dob": "1973-08-03 11:52:56"
+  }
+]
